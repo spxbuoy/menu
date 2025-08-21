@@ -202,7 +202,7 @@ echo -e " ${z}│$NC${z} Version$NC       ${Blue}=$NC V3.0.1"
 echo -e " ${z}│$NC${z} User$NC          ${Blue}=$NC $username"
 echo -e " ${z}│$NC${z} Script Status$NC ${Blue}=$NC $sts "
 echo -e " ${z}│$NC${z} Expiry script$NC $Blue=$green $exp $certifacate Days$NC "
-echo -e " ${z}╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━※❆※━━━━━━━━━━━━━━━━━━━━━╯${NC}"
+echo -e " ${z}╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━※❆※━━━━━━━━━━━━━━━━━━━━━━━━━━━╯${NC}"
 echo
 read -p " Select menu : " opt
 echo -e ""
