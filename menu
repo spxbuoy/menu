@@ -197,7 +197,6 @@ echo -e " ${z}│                                                           $NC$
 echo -e " ${z}│$NC [${grenbo}25${NC}]${z} CREATE SLOWDNS$NC ${KANAN} \E[0m\033[0;34m                                  $NC${z}│$NC"
 echo -e " ${z}│$NC [${grenbo}26${NC}]${z} CHANGE BANNER$NC ${KANAN} \E[0m\033[0;34m                                   $NC${z}│$NC"
 echo -e " ${z}│$NC [${grenbo}0${NC}]${z} BACK TO EXIT MENU$NC ${KANAN} \E[0m\033[0;34m                                $NC${z}│$NC"
-echo -e " $${NC}"
 echo -e " ${z}⫷===================【 Spider🌟CORE 】===================⫸${NC}"
 echo -e " ${z}│$NC${z} Version$NC       ${Blue}=$NC V3.0.1"
 echo -e " ${z}│$NC${z} User$NC          ${Blue}=$NC $username"
